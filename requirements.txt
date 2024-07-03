@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+streamlit_navigation_bar
+langchain
+langchain_core
+langchain_cohere
